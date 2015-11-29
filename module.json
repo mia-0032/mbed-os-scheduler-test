@@ -1,0 +1,16 @@
+{
+  "name": "mbed-os-scheduler-test",
+  "version": "0.0.1",
+  "description": "Try mbed os scheduler MINAR",
+  "keywords": [],
+  "bin": "./source",
+  "author": "mia-0032",
+  "repository": {
+    "url": "git@github.com:mia-0032/mbed-os-scheduler-test.git",
+    "type": "git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "mbed-drivers": "~0.11.3"
+  }
+}
